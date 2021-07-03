@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Leewak
-- 👀 I’m interested in everything actually
+- 👋 Hi, I’m @Leewak AKA MR ERYTHINK
+- 👀 I’m interested in EVERYTHING actually
 - 🌱 I’m currently learning EVERYTHING FROM THE SCRATCH
-- 💞️ I’m looking to collaborate on EVERYONE ON GITHUB
+- 💞️ I’m looking to collaborate with EVERYONE on GITHUB
 - 📫 YOU CAN FIND ME EVERYWHERE
 
 <!---
